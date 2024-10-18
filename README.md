@@ -2,16 +2,6 @@
 
 This project is an implementation of a simplified version of the card game **Set** in Java, focusing on concurrency and synchronization. The primary objective is to practice concurrent programming using Java Threads and Synchronization mechanisms.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Game Design](#game-design)
-- [Concurrency and Synchronization](#concurrency-and-synchronization)
-- [Unit Testing](#unit-testing)
-- [Build and Run Instructions](#build-and-run-instructions)
-- [Directory Structure](#directory-structure)
-- [Bonus Challenges](#bonus-challenges)
-
 ## Overview
 
 The goal of this project is to implement the game logic for a simplified version of the card game "Set".
