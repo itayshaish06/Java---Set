@@ -48,7 +48,7 @@ Concurrency is at the heart of this project. Multiple player threads run simulta
 
 This project uses [Maven](https://maven.apache.org/) for building and dependency management.
 
-### Build
+### Build and Run
 To compile and run tests:
-```bash
-mvn clean compile test
+1. (Optional) Enter and edit the confiuration file `config.properties`.
+2. Run the `buildSet.sh` script for linux or `buildSet.bat` script for windows and play.
